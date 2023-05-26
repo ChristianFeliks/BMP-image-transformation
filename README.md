@@ -1,9 +1,10 @@
 # BMP-image-transformation
-Simple BMP transformation tool.
-Created by Christian Feliks.
+Simple BMP transformation tool.  
+Created by Christian Feliks.  
+This is a copy from my private repository and is meant for job application purposses.  
 
 ### USAGE:
-$./bmp FILE]... [OPTION]
+$./bmp [FILE]... [OPTION]
   
 ### EXAMPLE:
   $ bmp -i input.bmp -o output.bmp -r
